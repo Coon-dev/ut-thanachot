@@ -1,0 +1,2 @@
+run code with go run main.go
+use sample request to run in your terminal and server will return the top ten most-used words.
